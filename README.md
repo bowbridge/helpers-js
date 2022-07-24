@@ -1,13 +1,11 @@
-# nest-redis-om
-
-Redis OM module for NestJS Framework
+# helper-functions
 
 ## Installation
 
 ```bash
-npm i @bowbridge/nest-redis-om redis-om
+npm i @bowbridge/helpers-js
 
  or
 
-yarn add @bowbridge/nest-redis-om redis-om
+yarn add @bowbridge/helpers-js
 ```
